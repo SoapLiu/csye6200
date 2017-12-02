@@ -1,0 +1,10 @@
+Our Aircraft test program is starting
+Crew Number		1	2	
+Fuel Capacity(KG)	128380	119833	
+Cruise Speed(KM/H)	920.0	905.0	
+Vendor			Boeing	Boeing	
+Type			747	777	
+Mpg(MilePerGallon)	0.2	0.188	
+Range(Mile)		9689	8501	
+Payload			112760	102000	
+Our Aircraft test program is ending
