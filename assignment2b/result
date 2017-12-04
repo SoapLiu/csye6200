@@ -1,0 +1,65 @@
+
+*-----test maxCargoCap-----*
+
+a1's maximum available cargo capacity is: 32000
+a2's maximum available cargo capacity is: 32100
+a3's maximum available cargo capacity is: 29900
+a4's maximum available cargo capacity is: 30110
+a5's maximum available cargo capacity is: 28800
+
+*-----test addAircraftList()-----*
+*-----add a1-----*
+
+aircraftID:	N1762J
+fuelCap:	1000
+acWeight:	20000
+
+*-----add a2, a3, a4, a5-----*
+aircraftID:	N1762J
+fuelCap:	1000
+acWeight:	20000
+
+aircraftID:	N2851J
+fuelCap:	900
+acWeight:	18000
+
+aircraftID:	N3963J
+fuelCap:	1100
+acWeight:	23000
+
+aircraftID:	N4396J
+fuelCap:	890
+acWeight:	18000
+
+aircraftID:	N5235J
+fuelCap:	1200
+acWeight:	25000
+
+
+*-----test removeAircraftList()-----*
+*-----remove No.1-----*
+
+aircraftID:	N2851J
+fuelCap:	900
+acWeight:	18000
+
+aircraftID:	N3963J
+fuelCap:	1100
+acWeight:	23000
+
+aircraftID:	N4396J
+fuelCap:	890
+acWeight:	18000
+
+aircraftID:	N5235J
+fuelCap:	1200
+acWeight:	25000
+
+
+*-----test retrieve an airplane by ID string-----*
+
+please enter the ID tail number.
+N4396J
+aircraftID:	N4396J
+fuelCap:	890
+acWeight:	18000
