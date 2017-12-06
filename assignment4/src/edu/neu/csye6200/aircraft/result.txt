@@ -1,0 +1,222 @@
+Oct 26, 2017 8:45:24 PM edu.neu.csye6200.aircraft.AircraftFleet getInstance
+INFO: Constructing an AircraftFleet Insatance
+----------Test CargoAircraft and Aircraft----------
+AircraftType:	Normal
+AircraftID:	N1762J
+acFuelCap:	1000
+acWeight:	20000
+acMTWeight:	53000
+cargoWeight:	12302
+MaxCargoCap:	32000
+
+AircraftType:	Cargo
+AircraftID:	N2851J
+acFuelCap:	900
+acWeight:	18000
+acMTWeight:	51000
+cargoWeight:	21343
+MaxCargoCap:	32100
+CargoHeight:	2.5
+CargoWidth:	80.0
+CargoLength:	3.0
+CargoArea:	600.0
+
+AircraftType:	Normal
+AircraftID:	N3963J
+acFuelCap:	1100
+acWeight:	23000
+acMTWeight:	54000
+cargoWeight:	23578
+MaxCargoCap:	29900
+
+AircraftType:	Cargo
+AircraftID:	N4396J
+acFuelCap:	890
+acWeight:	18000
+acMTWeight:	49000
+cargoWeight:	23132
+MaxCargoCap:	30110
+CargoHeight:	2.8
+CargoWidth:	67.0
+CargoLength:	3.8
+CargoArea:	712.88
+
+AircraftType:	Normal
+AircraftID:	N5235J
+acFuelCap:	1323
+acWeight:	23412
+acMTWeight:	55223
+cargoWeight:	12421
+MaxCargoCap:	30488
+
+AircraftType:	Normal
+AircraftID:	N5235K
+acFuelCap:	1242
+acWeight:	25241
+acMTWeight:	51239
+cargoWeight:	12485
+MaxCargoCap:	24756
+
+AircraftType:	Normal
+AircraftID:	N1234J
+acFuelCap:	1252
+acWeight:	23412
+acMTWeight:	56887
+cargoWeight:	18621
+MaxCargoCap:	32223
+
+AircraftType:	Normal
+AircraftID:	B3241M
+acFuelCap:	1262
+acWeight:	24355
+acMTWeight:	58741
+cargoWeight:	11248
+MaxCargoCap:	33124
+
+AircraftType:	Normal
+AircraftID:	L1341F
+acFuelCap:	1123
+acWeight:	26432
+acMTWeight:	58161
+cargoWeight:	17512
+MaxCargoCap:	30606
+
+AircraftType:	Normal
+AircraftID:	I143S
+acFuelCap:	1276
+acWeight:	24253
+acMTWeight:	51282
+cargoWeight:	16913
+MaxCargoCap:	25753
+
+---------------------------------------------------
+----------Test sort----------
+Total number of checks is: 9
+Total number of checks is: 17
+Total number of checks is: 24
+Total number of checks is: 30
+Total number of checks is: 35
+Total number of checks is: 39
+Total number of checks is: 42
+Total number of checks is: 44
+AircraftType:	Normal
+AircraftID:	B3241M
+acFuelCap:	1262
+acWeight:	24355
+acMTWeight:	58741
+cargoWeight:	11248
+MaxCargoCap:	33124
+
+AircraftType:	Normal
+AircraftID:	I143S
+acFuelCap:	1276
+acWeight:	24253
+acMTWeight:	51282
+cargoWeight:	16913
+MaxCargoCap:	25753
+
+AircraftType:	Normal
+AircraftID:	L1341F
+acFuelCap:	1123
+acWeight:	26432
+acMTWeight:	58161
+cargoWeight:	17512
+MaxCargoCap:	30606
+
+AircraftType:	Normal
+AircraftID:	N1234J
+acFuelCap:	1252
+acWeight:	23412
+acMTWeight:	56887
+cargoWeight:	18621
+MaxCargoCap:	32223
+
+AircraftType:	Normal
+AircraftID:	N1762J
+acFuelCap:	1000
+acWeight:	20000
+acMTWeight:	53000
+cargoWeight:	12302
+MaxCargoCap:	32000
+
+AircraftType:	Cargo
+AircraftID:	N2851J
+acFuelCap:	900
+acWeight:	18000
+acMTWeight:	51000
+cargoWeight:	21343
+MaxCargoCap:	32100
+CargoHeight:	2.5
+CargoWidth:	80.0
+CargoLength:	3.0
+CargoArea:	600.0
+
+AircraftType:	Normal
+AircraftID:	N3963J
+acFuelCap:	1100
+acWeight:	23000
+acMTWeight:	54000
+cargoWeight:	23578
+MaxCargoCap:	29900
+
+AircraftType:	Cargo
+AircraftID:	N4396J
+acFuelCap:	890
+acWeight:	18000
+acMTWeight:	49000
+cargoWeight:	23132
+MaxCargoCap:	30110
+CargoHeight:	2.8
+CargoWidth:	67.0
+CargoLength:	3.8
+CargoArea:	712.88
+
+AircraftType:	Normal
+AircraftID:	N5235J
+acFuelCap:	1323
+acWeight:	23412
+acMTWeight:	55223
+cargoWeight:	12421
+MaxCargoCap:	30488
+
+AircraftType:	Normal
+AircraftID:	N5235K
+acFuelCap:	1242
+acWeight:	25241
+acMTWeight:	51239
+cargoWeight:	12485
+MaxCargoCap:	24756
+
+Oct 26, 2017 8:45:24 PM edu.neu.csye6200.aircraft.FleetIO saveSingleAC
+INFO: Save An Aircraft Into File
+Oct 26, 2017 8:45:24 PM edu.neu.csye6200.aircraft.FleetIO saveSingleAC
+INFO: Save An Aircraft Into File
+Oct 26, 2017 8:45:24 PM edu.neu.csye6200.aircraft.FleetIO saveSingleAC
+INFO: Save An Aircraft Into File
+Oct 26, 2017 8:45:24 PM edu.neu.csye6200.aircraft.FleetIO saveSingleAC
+INFO: Save An Aircraft Into File
+Oct 26, 2017 8:45:24 PM edu.neu.csye6200.aircraft.FleetIO saveSingleAC
+INFO: Save An Aircraft Into File
+Oct 26, 2017 8:45:24 PM edu.neu.csye6200.aircraft.FleetIO saveSingleAC
+INFO: Save An Aircraft Into File
+Oct 26, 2017 8:45:24 PM edu.neu.csye6200.aircraft.FleetIO saveSingleAC
+INFO: Save An Aircraft Into File
+Oct 26, 2017 8:45:24 PM edu.neu.csye6200.aircraft.FleetIO saveSingleAC
+INFO: Save An Aircraft Into File
+Oct 26, 2017 8:45:24 PM edu.neu.csye6200.aircraft.FleetIO saveSingleAC
+INFO: Save An Aircraft Into File
+Oct 26, 2017 8:45:24 PM edu.neu.csye6200.aircraft.FleetIO saveSingleAC
+INFO: Save An Aircraft Into File
+Oct 26, 2017 8:45:24 PM edu.neu.csye6200.aircraft.FleetIO load
+INFO: Load An Aircraft From File
+Oct 26, 2017 8:45:24 PM edu.neu.csye6200.aircraft.FleetIO load
+SEVERE: A Big Problem Of Load Method
+java.io.FileNotFoundException: wrong (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at java.io.FileReader.<init>(FileReader.java:58)
+	at edu.neu.csye6200.aircraft.FleetIO.load(FleetIO.java:24)
+	at edu.neu.csye6200.aircraft.AircraftTest.run(AircraftTest.java:75)
+	at edu.neu.csye6200.aircraft.AircraftTest.main(AircraftTest.java:98)
